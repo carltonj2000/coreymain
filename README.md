@@ -11,6 +11,7 @@ Steps below done in the DO `/mnt/volume_sfo2_02/cj/sophieandchampagne` directory
 
 - `git clone https://github.com/carltonj2000/coreymain.git`
 - `ln -s coreymain\main main`
+- `ln -s coreymain\redirect.html index.html`
 
 ### Digital Ocean Release Procedure
 
